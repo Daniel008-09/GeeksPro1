@@ -1,0 +1,32 @@
+.body1 {
+    background-color: #0F0F0F;
+    text-align: center; 
+    padding: 20px 0; 
+}
+
+.brend {
+    font-size: 36px;
+    line-height: 42.19px;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.lineQQ {
+    border: 1px solid white;
+    width: 120px;
+    margin: 0 auto 20px auto; 
+
+}
+
+.imageRow {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+}
+
+.coco {
+    width: 255px; 
+    height: 94px;   
+    margin: 0 10px; 
+}

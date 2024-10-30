@@ -1,0 +1,12 @@
+.third-line {
+    display: flex; 
+    justify-content: space-around; 
+    margin: 20px; 
+  
+    
+}
+
+.third-line p {
+    margin: 0; 
+}
+

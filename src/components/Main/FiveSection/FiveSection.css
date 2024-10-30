@@ -1,0 +1,44 @@
+.FiveSectionContainer {
+   width: 625px;
+   height: 501px;
+    margin: 0 auto;
+    text-align: center; 
+    color: white;
+
+    margin-right: -15px;
+    margin-top: -525px;
+
+}
+
+.title {
+    font-size: 34px; 
+    margin: 20px 0;
+    padding-top: 10px;
+}
+
+.lineRR {
+    border: 1px solid white;
+    width: 120px;
+    margin: 10px auto;
+}
+
+.loremm {
+    text-align: center;
+    margin: 20px 0; 
+    width: 471px;
+    height: 173px;
+    transform: translateX(90px);
+    padding-top: 100px;
+}
+
+.boxRR {
+    width: 311px;
+    height: 47px;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+    color: white;
+   
+   }
